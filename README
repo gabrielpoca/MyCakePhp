@@ -1,4 +1,7 @@
 This is my personal version of cakephp 2. I managed to get Haml, Sass and Markdown working.
+To install it run
+	./install /path/to/cakephpfolder 
+
 Some useful information:
 http://www.travisberry.com/2011/01/haml-sass-markdown-and-cakephp-oh-my/
 http://code.google.com/p/phamlp/
